@@ -1,0 +1,24 @@
+{
+  "name": "Yanx Studio",
+  "short_name": "Yanx",
+  "icons": [
+    {
+      "src": "/yanx-studio/YanxStudioIcon.png",
+      "sizes": "any",
+      "type": "image/png"
+    },
+    {
+      "src": "/yanx-studio/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/yanx-studio/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
